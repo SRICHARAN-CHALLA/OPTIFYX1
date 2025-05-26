@@ -1,0 +1,51 @@
+body{
+    background-color: cornflowerblue;
+}
+form{
+    border: 2px solid white;
+    width: 30%;
+    
+    margin-left: 33%;
+    margin-bottom: 7%;
+    margin-top: 5%;
+    background-color: white;
+    border-radius: 5%;
+    box-sizing: border-box;
+    padding-left: 5%;
+    padding-top: 4%;
+    
+
+}
+h1{
+    margin-left: 25%;
+   
+    
+}
+input{
+    height: 30px;
+    width: 250px;
+
+}
+button{
+    margin-left:13%;
+    height:35px ;
+    width: 150px;
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: 10%;
+    text-decoration: none;
+    border-radius: 5%;
+
+}
+button:hover{
+    transform: scale(1.2);
+}
+a{
+    text-decoration: none;
+    font-size: 125%;
+    margin-left: 2%;
+}
+a:hover{
+    color: cornflowerblue;
+    transform: scale(1.2);
+}

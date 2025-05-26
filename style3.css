@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(88, 88, 88);
+}
+form{
+
+    border: 2px solid none;
+    height: 100%;
+    width: 40%;
+    background-color: black;
+    box-shadow: 5px 10px 5px rgb(86, 86, 86);
+    color: white;
+    margin-left: 30%;
+    margin-top: 5%;
+    border-radius: 7%;
+    padding-bottom: 5%;
+
+
+}
+form label{
+    margin-left: 120px;
+    font-size: 130%;
+}
+.details input{
+    margin-left: 120px;
+    width: 50%;
+    height: 35px;
+}
+form h1{
+    margin-left: 24%;
+    padding-top: 20px;
+}
+h2{
+    margin-left: 26%;
+    padding-top: 13px;
+     font-size: 30px;
+}
+    
+
+form a{
+    margin-left: 37%;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+
+}
+form a:hover{
+    color: goldenrod;
+    transform: scale(1.2);
+}
+.pay{
+    padding-top: 10px;
+}
+.pay input{
+    margin-left: 150px;
+    font-size: 50px;
+}

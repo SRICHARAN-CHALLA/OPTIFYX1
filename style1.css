@@ -1,0 +1,50 @@
+body{
+    background-color: cornflowerblue;
+}
+
+form{
+   border: 1px solid white;
+   height: 18%;    
+   width: 20%;
+   font-display: flex;
+    margin-left: 29%;
+    margin-top: 4%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15px;
+    background-color: white;
+     font-weight: 20px;
+     font-size: 20px;
+     border-radius: 5%;
+
+    
+   
+}
+.but{
+    width: 150px;
+    height: 30px;
+    margin-left: 30px;
+    background-color: cornflowerblue;
+}
+.but:hover{
+   
+    transform: scale(1.1);
+}
+input:hover{
+    transform: scale(1.1);
+}
+input{
+    width: 200px;
+    height: 20px;
+
+}
+a{
+    text-decoration: none;
+    margin-left: 30px;
+    padding-bottom: 10px;
+}
+
+
+
+
